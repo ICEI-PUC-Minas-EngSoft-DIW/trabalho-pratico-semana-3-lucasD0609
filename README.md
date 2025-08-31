@@ -8,17 +8,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Lucas Damacena de Souza
+- Matricula: 901048
+- Proposta de projeto escolhida: Artistas & Álbuns Underground
+- Breve descrição sobre seu projeto: O projeto Artistas & Álbuns Underground tem como foco apresentar a cena musical independente brasileira, reunindo informações sobre músicos, bandas e lançamentos que acontecem fora do circuito comercial.
+
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](site.png)
+
